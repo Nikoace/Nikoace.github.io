@@ -6,8 +6,6 @@ categories: mircoservice study
 ---
 # 微服务概要
 
-[TOC]
-
 ## 什么是微服务
 
 1. 微：体积小，单个服务设计到运维人数少。
