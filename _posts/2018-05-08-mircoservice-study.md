@@ -4,7 +4,7 @@ title: "mircoservice study"
 date: 2018-05-08 09:59:05 -0400
 categories: mircoservice study
 ---
-#微服务概要
+# 微服务概要
 
 [TOC]
 
@@ -18,7 +18,7 @@ categories: mircoservice study
 
 ## 为什么要微服务
 
-###独立系统的缺点
+### 独立系统的缺点
 
  1.  扩展性差，可靠性不高，维护成本高。
 
