@@ -3,6 +3,7 @@ layout: post
 title: "mircoservice study"
 date: 2018-05-08 09:59:05 -0400
 categories: mircoservice study
+comments: true
 ---
 # 微服务概要
 
